@@ -1,4 +1,5 @@
 def using_while
+  counter = 0
   puts levitation_force = 6 
   
 	
